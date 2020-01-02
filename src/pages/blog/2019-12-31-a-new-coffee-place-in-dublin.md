@@ -10,3 +10,5 @@ tags:
   - Dublin
 ---
 There's this new coffee place in Dublin serving brilliant coffee, and it's called Laferrere-Wangs you should  check it out.
+
+Add some new content.
